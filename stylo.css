@@ -1,0 +1,15 @@
+p {
+ color: #135169; 
+}
+  ul {background:#e70909;
+  padding:15px}
+
+.acerca-de{
+    margin:15px;color:#09e741
+}
+ul{list-style:none;}
+li{
+    display:inline-block;
+    margin:50px;
+}
+margin:10px;
